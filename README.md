@@ -23,7 +23,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how to build Bioinfomatics software
   <br>
   📫 How to reach me: <a href="shaodongyan: 563608176@qq.com">563608176@qq.com</a>
 </p>
