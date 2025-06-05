@@ -15,7 +15,7 @@
   Hi, I'm Shao Dongyan, Bioinfomatics Engineer & Software Developer from CAU
   <br>
   <br>
-  🔬 I'm currently studying for a master's degree in CAU vet 
+  🔬 I'm currently studying for a PHD's degree in CAU vet 
   <br>
   🎓 I graduated from Jilin University vet
   <br>
